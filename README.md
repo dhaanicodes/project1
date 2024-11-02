@@ -8,6 +8,12 @@ This repository contains data about GitHub users in Delhi with over 50 followers
 2. `repositories.csv`: Contains information about 12185 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
 
+## Code
+
+For the code, check out the following : [TDS - Project 1 - Google Colab](https://colab.research.google.com/drive/1CUb_mXURG3pt5ETaOvlLfyCGPENwPfu0?usp=sharing).
+This code notebook contains code solutions for select questions, primarily focused on data extraction, followed by solutions to questions 1, 4, 7, 8, 9, 10, 13, 14, and 16. 
+The remaining questions were addressed using pivot tables or resulted in `NaN` outputs in the code.
+
 ## Data Collection
 
 - Data collected using GitHub API
